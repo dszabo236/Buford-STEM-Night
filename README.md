@@ -160,7 +160,7 @@ All the preliminary contacts who said they could participate in the event. When 
 <p align="center">
   <img src="year1/media/cole_dani.png" width="350" title="hover text">
   <img src="year1/media/linLab.png" width="350" alt="accessibility text">
-  <img src="year1/media/mol.jpg" width="350" alt="accessibility text">
+  <img src="year1/media/mol.png" width="350" alt="accessibility text">
 </p>
 # Project Management
 The timetable for our worked was slightly forced when we set the date for the event in the fall at April 25th. This hard deadline was a sort of blessing when it came to time management, almost every class we had stuff to do. We decided against splitting the work between us by task and essentially worked together on everything from contacting sponsors to writing proposals to meeting with Mr. Martin. This worked well for us, but a more specialized team with specific tasks for members could be more efficient. All in all, with two people we spread the work out well and got it all done, but without a class period every day to work this would have been difficult.
