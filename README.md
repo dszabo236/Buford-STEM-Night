@@ -158,17 +158,18 @@ The preregistration google form that we used to sort people into workshops.
 All the preliminary contacts who said they could participate in the event. When we changed the format of the event, some of their involvement didn't fit with the format.
 ## Pictures
 <p align="center">
-  <img src="year1/media/cole_dani.png" width="350" title="hover text">
-  <img src="year1/media/linLab.png" width="350" alt="accessibility text">
-  <img src="year1/media/mol.png" width="350" alt="accessibility text">
+  <img src="year1/media/cole_dani.png" width="350" height="350" title="hover text">
+  <img src="year1/media/linLab.png" width="350" height="350" alt="accessibility text">
+  <img src="year1/media/mol.png" width="350" height="350" alt="accessibility text">
 </p>
+
 # Project Management
 The timetable for our worked was slightly forced when we set the date for the event in the fall at April 25th. This hard deadline was a sort of blessing when it came to time management, almost every class we had stuff to do. We decided against splitting the work between us by task and essentially worked together on everything from contacting sponsors to writing proposals to meeting with Mr. Martin. This worked well for us, but a more specialized team with specific tasks for members could be more efficient. All in all, with two people we spread the work out well and got it all done, but without a class period every day to work this would have been difficult.
 
 We ended up hitting all of our milestones on time, but the final push of event execution was a little rushed. Everything went well, but going into the event the day of without all the planning done led to stress and an inability to guide volunteers and oversee setup in the ways we wanted to. This was a major learning for future events and a general lesson on not saving tasks for the last minute.
 # Budget
 <p align="center">
-  <img src="year1/media/Lifbudget.png" width="350" title="hover text">
+  <img src="year1/media/Lifbudget.png" width="350" height="350" title="hover text">
 </p>
 
 - [Budget](https://docs.google.com/spreadsheets/d/19dG1V0K1A8GJUXRqXO23fL60k6EDDGxQQ2-fiZT6V8w/edit?usp=sharing)
