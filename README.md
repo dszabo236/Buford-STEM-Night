@@ -6,7 +6,46 @@ After about 7 months of deciding on a direction, soliciting sponsors, designing 
 The event was created by Cole Fairchild and Dani Szabo, with mentorship from Matthew Shields. The second year was run by Dani Szabo. Original [wiki page](http://wiki.chssigma.com/index.php?title=Capstone_Project:_Buford_STEM_Night).
 
 # Table of Contents
-
+<!-- TOC -->
+- [Buford-STEM-Night](#buford-stem-night)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+    - [The Bigger Picture](#the-bigger-picture)
+        - [Vision:](#vision)
+        - [Mission:](#mission)
+        - [Goals:](#goals)
+    - [The Event](#the-event)
+- [Planning](#planning)
+    - [Sponsor Search & Workshop Curation](#sponsor-search--workshop-curation)
+    - [Space Planning](#space-planning)
+    - [Volunteers & Availability](#volunteers--availability)
+    - [Logistics](#logistics)
+- [Execution](#execution)
+    - [Advertising & Target Audience Search](#advertising--target-audience-search)
+    - [Providing for Workshops](#providing-for-workshops)
+    - [Running the Show](#running-the-show)
+    - [Reflections & Notes](#reflections--notes)
+- [Deliverables](#deliverables)
+    - [Run of Show](#run-of-show)
+    - [[Workshop Descriptions](https://docs.google.com/document/d/1VoRWpj-J-poL6zEWHiTuya3CyNUbBfHnzWqCBzVdCRM/edit?usp=sharing)](#workshop-descriptionshttpsdocsgooglecomdocumentd1vorwpj-j-pol6zewhituya3cynubbfhnzwqcbzvdcrmedituspsharing)
+    - [[Rotations](https://docs.google.com/drawings/d/1KnhmrI9ur6kV8Ljqa_RRaX2bYSmLzkGzq1WUn5FDBw8/edit?usp=sharing)](#rotationshttpsdocsgooglecomdrawingsd1knhmri9ur6kv8ljqa_rrax2bysmlzkgzq1wun5fdbw8edituspsharing)
+    - [[Student Schedules](https://docs.google.com/drawings/d/1w6TTiMm47x0D9Bda1_UZdjIH6yd_HX-WI3NZRWHwuzg/edit?usp=sharing)](#student-scheduleshttpsdocsgooglecomdrawingsd1w6ttimm47x0d9bda1_uzdjih6yd_hx-wi3nzrwhwuzgedituspsharing)
+    - [[Responses](https://docs.google.com/spreadsheets/d/1YD_aq7qrymVTx8FzTmln27wlcMMieWOnIMpJmcXQ8II/edit?usp=sharing) & [Group Sorting](https://docs.google.com/spreadsheets/d/1YD_aq7qrymVTx8FzTmln27wlcMMieWOnIMpJmcXQ8II/edit#gid=1447566682&range=A1)](#responseshttpsdocsgooglecomspreadsheetsd1yd_aq7qrymvtx8fztmln27wlcmmiewonimpjmcxq8iiedituspsharing--group-sortinghttpsdocsgooglecomspreadsheetsd1yd_aq7qrymvtx8fztmln27wlcmmiewonimpjmcxq8iieditgid1447566682rangea1)
+    - [[Flyer](https://drive.google.com/file/d/0B1AaXV3QTw1mRWQ2UTZEUGd4MVkxYkFEbld5aHpJTHc5NG00/view?usp=sharing)](#flyerhttpsdrivegooglecomfiled0b1aaxv3qtw1mrwq2utzeugd4mvkxykfebld5ahpjthc5ng00viewuspsharing)
+    - [[Sponsor Sheet](https://drive.google.com/file/d/0B1AaXV3QTw1mc3JKWlUycVl3ZG1JVC1GRjlvV29CaVc5SldZ/view?usp=sharing)](#sponsor-sheethttpsdrivegooglecomfiled0b1aaxv3qtw1mc3jkwluycvl3zg1jvc1grjlvv29cavc5sldzviewuspsharing)
+    - [[Workshop Spreadsheet w/Contacts](https://docs.google.com/spreadsheets/d/10tV4mzyAaf38_RF4wKC0vqxnHOZGPoKy6-L3orA86rg/edit?usp=sharing)](#workshop-spreadsheet-wcontactshttpsdocsgooglecomspreadsheetsd10tv4mzyaaf38_rf4wkc0vqxnhozgpoky6-l3ora86rgedituspsharing)
+    - [[Registration Form](https://docs.google.com/forms/d/1A84RapgjB8sq6dwunCgOEt-mFqlMJumrxj6xsfF8YaM/edit?usp=sharing)](#registration-formhttpsdocsgooglecomformsd1a84rapgjb8sq6dwuncgoet-mfqlmjumrxj6xsff8yamedituspsharing)
+    - [[Contact Spreadsheet](https://drive.google.com/open?id=1S49PBcBEIztcjyqOcz5RJoAyhwCAa4Y_Oc6UEx1pu-c)](#contact-spreadsheethttpsdrivegooglecomopenid1s49pbcbeiztcjyqocz5rjoayhwcaa4y_oc6uex1pu-c)
+- [Pictures](#pictures)
+- [Project Management](#project-management)
+- [Budget](#budget)
+- [Future Steps](#future-steps)
+    - [Objectives](#objectives-1)
+        - [Summer/Post Event](#summerpost-event)
+        - [Following Year](#following-year)
+- [File Trove](#file-trove)
+<!-- /TOC -->
 # Introduction 
 Our Capstone Project, Buford STEM Night, is an event born out of the Bezos Scholars experience and grant taken on by Cole Fairchild and Matt Shields. After a week of leadership training and talks from notable minds during the Aspen IDEAS Festival, the Bezos Family Foundation issued a $1000 grant for the team to design and execute their own impact event (Local Ideas Festival) focused around an issue or challenge specific to their community. Our names are Cole Fairchild and Dani Szabo, and we took this idea and built it into fruition as our Capstone Project for Engineering V.
 
