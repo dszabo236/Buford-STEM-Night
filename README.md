@@ -158,7 +158,7 @@ The preregistration google form that we used to sort people into workshops.
 All the preliminary contacts who said they could participate in the event. When we changed the format of the event, some of their involvement didn't fit with the format.
 ## Pictures
 <p align="center">
-  <img src="media/cole_dani.jpg" width="350" title="hover text">
+  <img src="year1/media/cole_dani.png" width="350" title="hover text">
   <img src="media/inLab.jpg" width="350" alt="accessibility text">
   <img src="media/mol.jpg" width="350" alt="accessibility text">
 </p>
