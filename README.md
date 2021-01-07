@@ -170,7 +170,9 @@ We ended up hitting all of our milestones on time, but the final push of event e
 <p align="center">
   <img src="year1/media/Lifbudget.png" width="350" title="hover text">
 </p>
+
 - [Budget](https://docs.google.com/spreadsheets/d/19dG1V0K1A8GJUXRqXO23fL60k6EDDGxQQ2-fiZT6V8w/edit?usp=sharing)
+
 # Future Steps
 There are a few key steps for the next year that need to be taken, as well as some for the summer. Jude Fairchild will be taking over at CHS as a new partner and will work in coordination with Dani Szabo at UVa and Mr. Martin at Buford. A new round of funding will be available via the Bezos Family Foundation for an additional 3 years contingent on the completion of a grant proposal and proven success.
 ## Objectives
