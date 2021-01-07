@@ -10,7 +10,7 @@ The event was created by Cole Fairchild and Dani Szabo, with mentorship from Mat
 # Introduction 
 Our Capstone Project, Buford STEM Night, is an event born out of the Bezos Scholars experience and grant taken on by Cole Fairchild and Matt Shields. After a week of leadership training and talks from notable minds during the Aspen IDEAS Festival, the Bezos Family Foundation issued a $1000 grant for the team to design and execute their own impact event (Local Ideas Festival) focused around an issue or challenge specific to their community. Our names are Cole Fairchild and Dani Szabo, and we took this idea and built it into fruition as our Capstone Project for Engineering V.
 
-There exists a quintessential problem at CHS that has existed throughout my time in the school system and will continue for a long time. It is not an issue unique to our school at all (but it’s worse than usual), but one that remains a scar from a troubled history: segregation. The deep-rooted problem of a racial achievement gap at Buford Middle School and Charlottesville High School is marked by a lack of diversity in STEM (and AP) classrooms. The gap grows at Buford Middle School; there is especially a large drop in STEM involvement through higher order classes going from the 8th to the 9th grade. Significant buzz and data have been released nationally about the achievement gap in Charlottesville specifically: [1]
+There exists a quintessential problem at CHS that has existed throughout my time in the school system and will continue for a long time. It is not an issue unique to our school at all (but it’s worse than usual), but one that remains a scar from a troubled history: segregation. The deep-rooted problem of a racial achievement gap at Buford Middle School and Charlottesville High School is marked by a lack of diversity in STEM (and AP) classrooms. The gap grows at Buford Middle School; there is especially a large drop in STEM involvement through higher order classes going from the 8th to the 9th grade. Significant buzz and data have been released nationally about the achievement gap in Charlottesville specifically: [1](https://www.nytimes.com/2018/10/16/us/charlottesville-riots-black-students-schools.html)
 
 The “STEM Night” inspiration and blueprint came from a series of events held by Charlottesville School’s iSTEM program at all the local elementary schools. We attend every year to volunteer and were always struck by how different the turnout looked than at the High School: a general interest in science and math at school drove an attendance of students and families remarkably representative of the school’s larger demographics. Given, more participation comes with younger age groups, but we wanted to replicate that same energy and excitement in an event that would speak to 6th-8th graders.
 # Objectives
@@ -97,25 +97,25 @@ We accomplished three of the four goals - workshop creation, food provision, and
 - Registration organized a day before the event
 - Raffle set up a day before the event
 # Deliverables
-#### Run of Show
+#### [Run of Show](https://docs.google.com/document/d/1JAtsjE_t3WmahibYhLXpzEUmxhHVZ36-5AfKC-CLCpE/edit?usp=sharing)
 This is the final run down of the event. It is a minute by minute breakdown of the event.
-#### Workshop Descriptions
+#### [Workshop Descriptions](https://docs.google.com/document/d/1VoRWpj-J-poL6zEWHiTuya3CyNUbBfHnzWqCBzVdCRM/edit?usp=sharing)
 A detailed description of the 10 workshops.
-#### Rotations
+#### [Rotations](https://docs.google.com/drawings/d/1KnhmrI9ur6kV8Ljqa_RRaX2bYSmLzkGzq1WUn5FDBw8/edit?usp=sharing)
 These are the printout slips to hand to students with their specific workshop rotation. It is linked do a google sheet.
-#### Student Schedules
+#### [Student Schedules](https://docs.google.com/drawings/d/1w6TTiMm47x0D9Bda1_UZdjIH6yd_HX-WI3NZRWHwuzg/edit?usp=sharing)
 This is the final slip prinout, linked to a google sheet.
-#### Responses and Group Sorting
+#### [Responses](https://docs.google.com/spreadsheets/d/1YD_aq7qrymVTx8FzTmln27wlcMMieWOnIMpJmcXQ8II/edit?usp=sharing) & [Group Sorting](https://docs.google.com/spreadsheets/d/1YD_aq7qrymVTx8FzTmln27wlcMMieWOnIMpJmcXQ8II/edit#gid=1447566682&range=A1)
 the first item is a link to a spreadsheet with student responses to our google form. The other document is a spreadsheet with those students sorted into groups.
-#### Flyer
+#### [Flyer](https://drive.google.com/file/d/0B1AaXV3QTw1mRWQ2UTZEUGd4MVkxYkFEbld5aHpJTHc5NG00/view?usp=sharing)
 The official event flyer that we sent out through the school system.
-#### Sponsor Sheet
+#### [Sponsor Sheet](https://drive.google.com/file/d/0B1AaXV3QTw1mc3JKWlUycVl3ZG1JVC1GRjlvV29CaVc5SldZ/view?usp=sharing)
 A flyer that was sent out to UVa groups and faculty through the Office of Diversity and Equity.
-#### Workshop Spreadsheet w/Contacts
+#### [Workshop Spreadsheet w/Contacts](https://docs.google.com/spreadsheets/d/10tV4mzyAaf38_RF4wKC0vqxnHOZGPoKy6-L3orA86rg/edit?usp=sharing)
 A google sheet with the workshops who confirmed for the event, their names, contact information, and the rooms we put them in at the event.
-#### Registration Form
+#### [Registration Form](https://docs.google.com/forms/d/1A84RapgjB8sq6dwunCgOEt-mFqlMJumrxj6xsfF8YaM/edit?usp=sharing)
 The preregistration google form that we used to sort people into workshops.
-#### Contact Spreadsheet
+#### [Contact Spreadsheet](https://drive.google.com/open?id=1S49PBcBEIztcjyqOcz5RJoAyhwCAa4Y_Oc6UEx1pu-c)
 All the preliminary contacts who said they could participate in the event. When we changed the format of the event, some of their involvement didn't fit with the format.
 ## Pictures
 # Project Management
@@ -143,3 +143,4 @@ There are a few key steps for the next year that need to be taken, as well as so
 - Deadlines
 - Minority Engagement
 # File Trove
+For anyone that wants it, [here](https://drive.google.com/drive/folders/1pQmGpA7QnXWq5Iy0-cep7PELWDfNVRhv?usp=sharing) is our vast, unorganized trove of files for future reference.
